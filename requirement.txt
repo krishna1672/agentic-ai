@@ -1,0 +1,10 @@
+typer
+python-dotenv
+phidata
+uvicorn
+groq
+sqlalchemy
+pgvector
+psycopg[binary]
+pypdf
+openai
